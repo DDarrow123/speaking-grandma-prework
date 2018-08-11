@@ -9,7 +9,7 @@ if phrase == "phrase".upcase
   else
   "HUH?! SPEAK UP, SONNY!"
 
-
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
@@ -23,9 +23,6 @@ if phrase == "phrase".upcase
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-
-
-end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
